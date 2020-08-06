@@ -1,0 +1,41 @@
+#wrapper {
+  margin: 50%;
+  background-color: rgba(255, 252, 246, 0.85);
+  padding: 2% 5%;
+  margin: auto;
+  margin-bottom: 5%;
+  margin-top: 10%;
+  font-family: palatino linotype;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  width: 70%;
+  color: #034488;
+  text-indent: 25px;
+  text-align: left;
+  border: solid rgba(133, 133, 133, 0.2) 3px;
+  border-radius: 25px;
+}
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+#tickets-header a {
+  border-radius: 5px;
+  padding: 0.5em;
+  color: #fffcf6;
+  background-color: #178fd6;
+}
+.spoiler-head {
+  float: left;
+  clear: right;
+  color: #178fd6;
+}
+
+.spoiler-head:hover {
+  cursor: pointer;
+}
+
+.cards-item {
+  margin-top: 2em;
+}

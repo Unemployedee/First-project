@@ -1,0 +1,26 @@
+#main-bottom-footer {
+  clear: both;
+  padding: 2em;
+  margin-bottom: 0;
+  background-color: #178fd6;
+}
+#footer-info {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+}
+address a:hover {
+  color: #ccdde8;
+}
+address a {
+  color: white;
+  text-decoration: none;
+}
+#footer-info {
+  color: white;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}

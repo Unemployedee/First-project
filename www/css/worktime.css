@@ -1,0 +1,36 @@
+.work-time-info {
+  margin-top: 10%;
+  border: solid rgba(133, 133, 133, 0.2) 5px;
+  border-radius: 25px;
+  background-color: rgba(255, 252, 246, 0.85);
+  font-family: palatino linotype;
+  letter-spacing: 0.1em;
+  width: 65%;
+  color: #034488;
+  text-indent: 2em;
+  margin: auto;
+  margin-top: 10%;
+  font-size: 20px;
+  padding: 2em;
+  margin-bottom: 5%;
+}
+.work-time-info h2 {
+  text-align: center;
+  margin: 0;
+}
+
+.spoiler-head h3 {
+  margin: 0;
+}
+.spoiler-body {
+  margin: 0;
+}
+h3 {
+  margin: 1em;
+}
+
+.spoiler-head:hover {
+  transition: 0.2s;
+  cursor: pointer;
+  color: #ccdde8;
+}

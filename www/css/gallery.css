@@ -1,0 +1,58 @@
+.myButton {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 3px;
+  border: none;
+  background: #178fd6;
+  box-shadow: 0 -3px #034488 inset;
+  transition: 0.2s;
+  cursor: pointer;
+  /* margin: auto; */
+}
+.myButton:hover {
+  background-color: #0061a7;
+}
+
+#wrapper {
+  margin-top: 10%;
+  border: solid rgba(133, 133, 133, 0.2) 5px;
+  border-radius: 25px;
+  background-color: rgba(255, 252, 246, 0.85);
+  font-family: palatino linotype;
+  letter-spacing: 0.1em;
+  /* width: 50%; */
+  color: #034488;
+  text-indent: 2em;
+  margin: 5em;
+  margin-top: 10%;
+  font-size: 20px;
+  padding: 2em;
+  margin-bottom: 5%;
+  text-align: center;
+}
+.button-switch {
+  text-align: center;
+  /* margin: auto; */
+  margin-top: 1em;
+}
+
+#images {
+  margin: auto;
+
+  min-width: 50%;
+  max-width: 100%;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+img {
+  border-radius: 5px;
+  width: 80%;
+  height: 90%;
+}

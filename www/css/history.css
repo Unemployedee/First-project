@@ -1,0 +1,42 @@
+body {
+  height: 100%;
+}
+
+#wrappper {
+  background-color: rgba(255, 252, 246, 0.85);
+  padding: 2% 5%;
+  margin: auto;
+  margin-bottom: 5%;
+  margin-top: 10%;
+  font-family: palatino linotype;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  width: 70%;
+  color: #034488;
+  text-indent: 25px;
+}
+h1 {
+  margin-top: 0;
+  text-align: center;
+}
+
+#history-block {
+  border: solid rgba(133, 133, 133, 0.2) 5px;
+  border-radius: 25px;
+  background-color: rgba(255, 252, 246, 0.85);
+  padding: 3em;
+  margin: auto;
+  font-family: palatino linotype;
+  letter-spacing: 0.1em;
+  width: 70%;
+  color: #034488;
+  text-indent: 2em;
+  font-size: 19px;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+/* 
+#history-block p {
+  text-align: left;
+} */
